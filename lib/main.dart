@@ -116,7 +116,7 @@ class GaleriFotoPage extends StatelessWidget {
                 'pemandangan yang sibuk dan energik.',
                 style: TextStyle(
                   fontSize: 12,
-                  height: 1.3,
+                  height: 1.2,
                   color: Colors.black87,
                 ),
                 textAlign: TextAlign.justify,
@@ -126,5 +126,5 @@ class GaleriFotoPage extends StatelessWidget {
         ),
       ),
     );
-  }
+  }//kholis
 }
